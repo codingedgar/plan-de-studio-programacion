@@ -25,9 +25,14 @@ Stack final:
 
 ## Herramientas
 ### Git
+### Visual Studio Code
 
 ## Marcos de trabajo
 
 ### ReactJS
 ### Express
 ### NodeJS
+
+## Librerias
+### fp-ts
+### Material-ui
