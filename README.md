@@ -23,9 +23,15 @@ Stack final:
 
 - [Crea una Página Web en HTML5 y CSS: Season 1](https://www.youtube.com/playlist?list=PLpOqH6AE0tNi0WWYPQuO6v5KlgoxPwnlw)
 
+### CSS
+- [CSS Grid](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWsFd43wpLog5HUFzDgIbWj)
+- [Curso de CSS Básico desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR)
+- [Curso de HTML Básico desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z)
+
 ### JavaScript
 
 - [Curso de JavaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz)
+- [Curso Básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G)
 
 ### TypeScript
 
@@ -49,6 +55,9 @@ Stack final:
 
 - [Curso NodeJS](https://www.youtube.com/playlist?list=PLpOqH6AE0tNjx0SzNvlsP9-JGJ0zmuFnS)
 
+### Firebase
+- [React y Firebase: El Curso Completo, Práctico y desde Cero](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWPYFQKnJm757uPX1k5LLXn)
+
 ## Librerias
 
 ### fp-ts
@@ -60,3 +69,4 @@ Stack final:
 Academias en español que ofre
 
 - [Código Facilito](https://www.youtube.com/c/codigofacilito)
+- [Falcon Masters](https://www.youtube.com/c/FalconMasters)
