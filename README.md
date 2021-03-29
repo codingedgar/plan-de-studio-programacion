@@ -56,10 +56,10 @@ Stack final:
 - [Curso NodeJS](https://www.youtube.com/playlist?list=PLpOqH6AE0tNjx0SzNvlsP9-JGJ0zmuFnS)
 
 ### Firebase
+
 - [React y Firebase: El Curso Completo, Práctico y desde Cero](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWPYFQKnJm757uPX1k5LLXn)
 
-## Librerias
-
+## Librerias
 ### fp-ts
 
 ### Material-ui
